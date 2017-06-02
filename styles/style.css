@@ -1,0 +1,14 @@
+/*------------------nav styles--------------------*/
+.navbar-default{
+    margin-bottom: 0px;
+}
+/*------------------nav styles end----------------*/
+
+/*------------------main styles-------------------*/
+main{
+     background: url(../images/mo-baghdadi-109634.jpg) center center no-repeat;
+     background-size: cover;
+     height: 95vh;
+     opacity: .6;
+}
+/*------------------main styles end----------------*/
