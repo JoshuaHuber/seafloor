@@ -11,4 +11,8 @@ main{
      height: 95vh;
      opacity: .6;
 }
+section{
+    height: 500px;
+    width: 10px;
+}
 /*------------------main styles end----------------*/
